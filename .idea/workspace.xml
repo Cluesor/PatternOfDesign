@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="583fb578-4028-4b63-bbff-5493e5fba9f0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-765810705">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.148" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="5" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="7" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="90" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="90" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="java" value="14937" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="14937" />
+          <entry key="PLAIN_TEXT" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PhoneInterview/OriginAndWrapperType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/regex/Pattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18905">
+              <caret line="1032" column="13" selection-start-line="1032" selection-start-column="13" selection-end-line="1032" selection-end-column="13" />
+              <folding>
+                <element signature="e#48487#48488#0" expanded="true" />
+                <element signature="e#48531#48532#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FaceExamination/Fibonacci/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FaceExamination/TreeReconstruct/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FaceExamination/StackImplList/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1653">
+              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FaceExamination/TwoDimensionArrayDumpNum/TwoDimensionArrayDumpNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/LSP/WithLSP/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/Lod_LKP/WithLod/Employee.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/Lod_LKP/WithLod/Test.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/LSP/NoLSP/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/LSP/NoLSP/Square.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/LSP/WithLSP/QuardRectangle.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/LSP/WithLSP/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/LSP/WithLSP/Square.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/LSP/WithLSP/Test.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/LSP/NoLSP/Test.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/CARP/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/CARP/ProductDAO.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/CARP/Test.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/CARP/WithCARP/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/CARP/WithCARP/OracleConnection.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/CARP/WithCARP/MySqlConnection.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/CARP/WithCARP/ProductDAO.java" />
+        <option value="$PROJECT_DIR$/src/BasicPrinciple/CARP/NoCARP/ProductDAO.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/syntax_Test.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Singleton/FRCPresident.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Singleton/USPresident.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Singleton/President.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Singleton/Client.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/TwoDimensionArrayDumpNum/TwoDimensionArrayDumpNum.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/RepeatNumInArray/RepeatNumInArray.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/StringChange/StrChange.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/SpaceReplace/SpaceReplace.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/LinkedList/test.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/LinkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/LinkedList/LinkedListPrint_Reverse.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/LinkedList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/LinkedList/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Tree/RebuildBiTree.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Tree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/TreeReconstruct/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/GetTreeNextNode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/GetTreeNextNode/GetNextNode.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/GetTreeNextNode/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/StackImplList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Fibonacci/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Fibonacci/RecursionSolution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/FrogJump/JumpByRecursion.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/FrogJump/JumpByLoop.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/Sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/MiniNumberRotateArray/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/HasPath/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/RobotMovingRange/Solution.java" />
+        <option value="$PROJECT_DIR$/src/FaceExamination/StackRevPrint.java" />
+        <option value="$PROJECT_DIR$/src/RegTest.java" />
+        <option value="$PROJECT_DIR$/src/PhoneInterview/RegTest.java" />
+        <option value="$PROJECT_DIR$/src/PhoneInterview/OriginAndWrapperType.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PatternOfDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PatternOfDesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PatternOfDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PatternOfDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PatternOfDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PatternOfDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PhoneInterview" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/IDEACode/PatternOfDesign/src/BasicPrinciple/OCP/ICourse.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1630816089937" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BasicPrinciple.CARP.WithCARP" />
+      <recent name="BasicPrinciple.LSP.WithLSP" />
+      <recent name="BasicPrinciple.DIP.WithDIP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RegTest">
+    <configuration name="OriginAndWrapperType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneInterview.OriginAndWrapperType" />
+      <module name="PatternOfDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhoneInterview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneInterview.RegTest" />
+      <module name="PatternOfDesign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaceExamination.HasPath.Solution" />
+      <module name="PatternOfDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FaceExamination.HasPath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaceExamination.MiniNumberRotateArray.Solution" />
+      <module name="PatternOfDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FaceExamination.MiniNumberRotateArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackRevPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FaceExamination.StackRevPrint" />
+      <module name="PatternOfDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FaceExamination.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.StackRevPrint" />
+      <item itemvalue="Application.RegTest" />
+      <item itemvalue="Application.OriginAndWrapperType" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegTest" />
+        <item itemvalue="Application.OriginAndWrapperType" />
+        <item itemvalue="Application.StackRevPrint" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="583fb578-4028-4b63-bbff-5493e5fba9f0" name="Default Changelist" comment="" />
+      <created>1619006283711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619006283711</updated>
+      <workItem from="1619006287915" duration="2588000" />
+      <workItem from="1619055882067" duration="7834000" />
+      <workItem from="1619144982745" duration="1799000" />
+      <workItem from="1619339509753" duration="5154000" />
+      <workItem from="1619412996186" duration="2153000" />
+      <workItem from="1619524094808" duration="1189000" />
+      <workItem from="1620192090302" duration="1197000" />
+      <workItem from="1620265733022" duration="9671000" />
+      <workItem from="1623827692383" duration="1975000" />
+      <workItem from="1623897796498" duration="7293000" />
+      <workItem from="1624071272428" duration="5181000" />
+      <workItem from="1624153254823" duration="3926000" />
+      <workItem from="1624178841482" duration="751000" />
+      <workItem from="1624239162100" duration="11488000" />
+      <workItem from="1624325632979" duration="6865000" />
+      <workItem from="1624411207181" duration="7663000" />
+      <workItem from="1624499497045" duration="9043000" />
+      <workItem from="1624586802810" duration="3254000" />
+      <workItem from="1624674729185" duration="1190000" />
+      <workItem from="1624762438682" duration="1191000" />
+      <workItem from="1624844921878" duration="8558000" />
+      <workItem from="1624931875809" duration="5206000" />
+      <workItem from="1625017600751" duration="5400000" />
+      <workItem from="1625095501489" duration="3220000" />
+      <workItem from="1625189985302" duration="8403000" />
+      <workItem from="1625290231623" duration="3825000" />
+      <workItem from="1625884801917" duration="2361000" />
+      <workItem from="1626060276639" duration="592000" />
+      <workItem from="1626231704711" duration="2129000" />
+      <workItem from="1626924475266" duration="2088000" />
+      <workItem from="1627002403156" duration="1549000" />
+      <workItem from="1627280933658" duration="2400000" />
+      <workItem from="1630811478643" duration="1039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="138175000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17570499" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Statistic" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/TwoDimensionArrayDumpNum/TwoDimensionArrayDumpNum.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/TwoDimensionArrayDumpNum/TwoDimensionArrayDumpNum.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/TwoDimensionArrayDumpNum/TwoDimensionArrayDumpNum.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/RepeatNumInArray/RepeatNumInArray.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/RepeatNumInArray/RepeatNumInArray.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/RepeatNumInArray/RepeatNumInArray.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/RepeatNumInArray/RepeatNumInArray.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/RepeatNumInArray/RepeatNumInArray.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FaceExamination/RepeatNumInArray/RepeatNumInArray.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/LSP/WithLSP/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/LSP/NoLSP/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/CARP/NoCARP/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/CARP/WithCARP/ProductDAO.java" />
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/LSP/NoLSP/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/LSP/WithLSP/QuardRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/LSP/NoLSP/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/CARP/NoCARP/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/Singleton/FRCPresident.java" />
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/Singleton/USPresident.java" />
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/ISP/NoISP/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/Singleton/President.java" />
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/syntax_Test.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="141" column="6" selection-start-line="141" selection-start-column="6" selection-end-line="141" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/CARP/WithCARP/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/Singleton/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/RepeatNumInArray/RepeatNumInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/CARP/NoCARP/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/CARP/WithCARP/MySqlConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/CARP/WithCARP/OracleConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/StringChange/StrChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/LinkedList/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/LinkedList/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/SpaceReplace/SpaceReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11818">
+          <caret line="661" column="13" selection-start-line="661" selection-start-column="13" selection-end-line="661" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/LinkedList/LinkedListPrint_Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41116">
+          <caret line="2241" selection-start-line="2241" selection-end-line="2241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/LinkedList/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/LinkedList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1235">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/TreeReconstruct/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/GetTreeNextNode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/GetTreeNextNode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/TreeReconstruct/RebuildBiTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/Fibonacci/RecursionSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/FrogJump/JumpByRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/FrogJump/JumpByLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/MiniNumberRotateArray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/HasPath/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/RobotMovingRange/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/StackRevPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18905">
+          <caret line="1032" column="13" selection-start-line="1032" selection-start-column="13" selection-end-line="1032" selection-end-column="13" />
+          <folding>
+            <element signature="e#48487#48488#0" expanded="true" />
+            <element signature="e#48531#48532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/Fibonacci/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/TreeReconstruct/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/StackImplList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FaceExamination/TwoDimensionArrayDumpNum/TwoDimensionArrayDumpNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicPrinciple/LSP/WithLSP/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhoneInterview/RegTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="104" column="26" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhoneInterview/OriginAndWrapperType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
